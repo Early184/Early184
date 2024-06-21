@@ -10,7 +10,7 @@ My journey in programming has led me to gain experience with </br>
 <img src="https://img.icons8.com/color/48/000000/desktop.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-[<img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)
+<img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>
 <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
 </br>
 I'm eager to deepen my skills and knowledge in programming and software development.
