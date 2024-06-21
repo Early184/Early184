@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 👋
+## Hello Stranger! 👋
 
 ### About Me
 I'm a young aspiring software developer currently pursuing my apprenticeship as an Application Developer.
@@ -10,7 +10,6 @@ My journey in programming has led me to gain experience with </br>
 <img src="https://img.icons8.com/color/48/000000/desktop.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/ui.png"/>
 <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>
 <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
 </br>
