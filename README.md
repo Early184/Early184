@@ -1,7 +1,7 @@
 ## Hello Stranger! 👋
 
 ### About Me
-I'm a middle-aged guy currently pursuing my apprenticeship as an Application Developer.
+I'm currently pursuing my apprenticeship as an Application Developer.
 My journey in programming has led me to gain experience with </br>
 ![image](https://github.com/Early184/Early184/assets/137812950/dcbbb959-7417-471e-9ea6-dacf60aba7c9)
 ![image](https://github.com/Early184/Early184/assets/137812950/71917895-4f56-40f7-ac42-d750a2b21d71)
