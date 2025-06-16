@@ -1,7 +1,7 @@
 ## Hello Stranger! 👋
 
 ### About Me
-I'm currently pursuing my apprenticeship as a Software Developer.
+I’ve just finished my apprenticeship as an application developer.
 My journey in programming has led me to gain experience with </br>
 ![image](https://github.com/Early184/Early184/assets/137812950/dcbbb959-7417-471e-9ea6-dacf60aba7c9)
 ![image](https://github.com/Early184/Early184/assets/137812950/71917895-4f56-40f7-ac42-d750a2b21d71)
@@ -10,7 +10,6 @@ My journey in programming has led me to gain experience with </br>
 ![image](https://github.com/Early184/Early184/assets/137812950/19800104-33e1-47df-a157-33f0835b8543)
 ![image](https://github.com/Early184/Early184/assets/137812950/ed40e4ce-dc93-46fc-9f8c-f0385cc71cee)
 ![image](https://github.com/Early184/Early184/assets/137812950/f00ea654-2113-4a29-a905-95eee18c187f)
-![image](https://github.com/user-attachments/assets/c4452815-156e-4b64-8587-ef70aea9a9cf)
 
 
 </br>
