@@ -10,7 +10,8 @@ My journey in programming has led me to gain experience with </br>
 ![image](https://github.com/Early184/Early184/assets/137812950/19800104-33e1-47df-a157-33f0835b8543)
 ![image](https://github.com/Early184/Early184/assets/137812950/ed40e4ce-dc93-46fc-9f8c-f0385cc71cee)
 ![image](https://github.com/Early184/Early184/assets/137812950/f00ea654-2113-4a29-a905-95eee18c187f)
-![image](https://github.com/user-attachments/assets/08b72fcc-bad9-4206-ba6d-d3c1c33bafbd)
+![image](https://github.com/user-attachments/assets/c4452815-156e-4b64-8587-ef70aea9a9cf)
+
 
 </br>
 I'm eager to deepen my skills and knowledge in programming and software development.
