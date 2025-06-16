@@ -4,8 +4,8 @@
 I’ve just finished my apprenticeship as an application developer.
 My journey in programming has led me to gain experience with </br>
 ![image](https://github.com/Early184/Early184/assets/137812950/dcbbb959-7417-471e-9ea6-dacf60aba7c9)
-![image](https://github.com/Early184/Early184/assets/137812950/71917895-4f56-40f7-ac42-d750a2b21d71)
-![image](https://github.com/Early184/Early184/assets/137812950/84a1ed58-4699-46f0-bd21-2788e18015d5)
+![image](https://github.com/user-attachments/assets/4777634c-87cd-443f-b832-eaf42ac18c13)
+![image](https://github.com/user-attachments/assets/0296c60b-bf06-4298-a39c-26f89a381a0c)
 ![image](https://github.com/Early184/Early184/assets/137812950/ca5d691d-3971-491d-8f1b-6b01ee092a84)
 ![image](https://github.com/Early184/Early184/assets/137812950/19800104-33e1-47df-a157-33f0835b8543)
 ![image](https://github.com/Early184/Early184/assets/137812950/ed40e4ce-dc93-46fc-9f8c-f0385cc71cee)
