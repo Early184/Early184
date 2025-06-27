@@ -18,8 +18,5 @@ My journey in programming has led me to gain experience with </br>
 </br>
 I'm eager to deepen my skills and knowledge in programming and software development.
 
-### Current Focus
-🌱 I'm currently expanding my knowledge in web development.
-
 📚 My goal is to write meaningful Applications and learn as much as possible on the way.
 
