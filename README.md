@@ -1,7 +1,6 @@
 ## Hello Stranger! 👋
 
 ### About Me
-I’ve just finished my apprenticeship as an application developer.
 My journey in programming has led me to gain experience with </br>
 <p>
   <img src="https://github.com/Early184/Early184/assets/137812950/dcbbb959-7417-471e-9ea6-dacf60aba7c9" alt="Logo 1" width="100"/>
